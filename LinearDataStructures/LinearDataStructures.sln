@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ReadPositiveNumbers", "01.ReadPositiveNumbers\01.ReadPositiveNumbers.csproj", "{5F185799-5A7D-4779-A560-1818D5330D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ReverseInStack", "2.ReverseInStack\2.ReverseInStack.csproj", "{97F21368-E00A-4941-A724-878AD804099B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.SortIncreasingOrder", "3.SortIncreasingOrder\3.SortIncreasingOrder.csproj", "{B61071B9-FE21-4036-9669-BECE3BF35686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.CountMaxSequence", "4.CountMaxSequence\4.CountMaxSequence.csproj", "{0AE1A494-5826-41C3-9429-C89FAB5C0DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.RemoveNegativeNumbers", "5.RemoveNegativeNumbers\5.RemoveNegativeNumbers.csproj", "{56542180-78C3-43B3-8A0B-DFCBA24144BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.RemoveOddCountedNumbers", "6.RemoveOddCountedNumbers\6.RemoveOddCountedNumbers.csproj", "{DA849B03-9B94-4622-B52C-555E660F22E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.CountTheOccurenceOFTheNumbers", "7.CountTheOccurenceOFTheNumbers\7.CountTheOccurenceOFTheNumbers.csproj", "{84AB0F7A-9ECE-41A7-85EA-584E569384C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.Print50NumbersFromQueue", "9.Print50NumbersFromQueue\9.Print50NumbersFromQueue.csproj", "{96F235DA-CCFF-476D-A6CD-8C54F47CE5AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.ImplementLinkedList", "11.ImplementLinkedList\11.ImplementLinkedList.csproj", "{DEB645C5-A155-4EEE-BAC0-02AB5C782E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.ImplementStack", "12.ImplementStack\12.ImplementStack.csproj", "{356B6FF7-9BF1-48F8-9180-9990987225FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.ImplementQueue", "13.ImplementQueue\13.ImplementQueue.csproj", "{0BAE5DC1-753A-4E67-A357-D83B2635A161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F185799-5A7D-4779-A560-1818D5330D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F185799-5A7D-4779-A560-1818D5330D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F185799-5A7D-4779-A560-1818D5330D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F185799-5A7D-4779-A560-1818D5330D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97F21368-E00A-4941-A724-878AD804099B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97F21368-E00A-4941-A724-878AD804099B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97F21368-E00A-4941-A724-878AD804099B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97F21368-E00A-4941-A724-878AD804099B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B61071B9-FE21-4036-9669-BECE3BF35686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61071B9-FE21-4036-9669-BECE3BF35686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61071B9-FE21-4036-9669-BECE3BF35686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61071B9-FE21-4036-9669-BECE3BF35686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE1A494-5826-41C3-9429-C89FAB5C0DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE1A494-5826-41C3-9429-C89FAB5C0DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE1A494-5826-41C3-9429-C89FAB5C0DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE1A494-5826-41C3-9429-C89FAB5C0DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56542180-78C3-43B3-8A0B-DFCBA24144BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56542180-78C3-43B3-8A0B-DFCBA24144BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56542180-78C3-43B3-8A0B-DFCBA24144BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56542180-78C3-43B3-8A0B-DFCBA24144BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA849B03-9B94-4622-B52C-555E660F22E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA849B03-9B94-4622-B52C-555E660F22E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA849B03-9B94-4622-B52C-555E660F22E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA849B03-9B94-4622-B52C-555E660F22E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84AB0F7A-9ECE-41A7-85EA-584E569384C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84AB0F7A-9ECE-41A7-85EA-584E569384C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84AB0F7A-9ECE-41A7-85EA-584E569384C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84AB0F7A-9ECE-41A7-85EA-584E569384C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96F235DA-CCFF-476D-A6CD-8C54F47CE5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96F235DA-CCFF-476D-A6CD-8C54F47CE5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96F235DA-CCFF-476D-A6CD-8C54F47CE5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96F235DA-CCFF-476D-A6CD-8C54F47CE5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEB645C5-A155-4EEE-BAC0-02AB5C782E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEB645C5-A155-4EEE-BAC0-02AB5C782E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEB645C5-A155-4EEE-BAC0-02AB5C782E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEB645C5-A155-4EEE-BAC0-02AB5C782E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{356B6FF7-9BF1-48F8-9180-9990987225FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356B6FF7-9BF1-48F8-9180-9990987225FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356B6FF7-9BF1-48F8-9180-9990987225FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356B6FF7-9BF1-48F8-9180-9990987225FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BAE5DC1-753A-4E67-A357-D83B2635A161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAE5DC1-753A-4E67-A357-D83B2635A161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAE5DC1-753A-4E67-A357-D83B2635A161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAE5DC1-753A-4E67-A357-D83B2635A161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

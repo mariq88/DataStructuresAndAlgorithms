@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.ImplementBiDictionary", "3.ImplementBigDictionary\3.ImplementBiDictionary.csproj", "{150BBD7E-7D0D-4235-BB67-70E9603FB9B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.PriceRange", "2.PriceRange\2.PriceRange.csproj", "{F0EF5B89-DFB5-4082-A138-536721841CE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.PrintInAlphabeticalOrder", "1.PrintInAlphabeticalOrder\1.PrintInAlphabeticalOrder.csproj", "{ACC3955B-BEF5-4016-8492-06121FEBF925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{150BBD7E-7D0D-4235-BB67-70E9603FB9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150BBD7E-7D0D-4235-BB67-70E9603FB9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150BBD7E-7D0D-4235-BB67-70E9603FB9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150BBD7E-7D0D-4235-BB67-70E9603FB9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0EF5B89-DFB5-4082-A138-536721841CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0EF5B89-DFB5-4082-A138-536721841CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0EF5B89-DFB5-4082-A138-536721841CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0EF5B89-DFB5-4082-A138-536721841CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC3955B-BEF5-4016-8492-06121FEBF925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC3955B-BEF5-4016-8492-06121FEBF925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC3955B-BEF5-4016-8492-06121FEBF925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC3955B-BEF5-4016-8492-06121FEBF925}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
